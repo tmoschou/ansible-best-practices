@@ -13,10 +13,14 @@ Covers
 
 ### References
 
-* [https://github.com/ansible/ansible/blob/devel/MODULE_GUIDELINES.md][Anisble Module Guidlines]
-* [https://github.com/ansible/ansible/blob/devel/CODING_GUIDELINES.md][Anisble Coding Guidlines]
-* [http://docs.ansible.com/ansible/latest/playbooks_best_practices.html][Ansible's Best Practice Guide]
+* [Ansible's Best Practice Guide][ansible-bbg]
+* [Anisble Coding Guidlines][ansible-dev-codeguide]
+* [Anisble Module Guidlines][ansible-dev-moduleguide]
 
  
- 
 ## Code Style
+
+[ansible-dev-moduleguide]: https://github.com/ansible/ansible/blob/devel/MODULE_GUIDELINES.md
+[ansible-dev-codeguide]: https://github.com/ansible/ansible/blob/devel/CODING_GUIDELINES.md
+[ansible-bbg]: http://docs.ansible.com/ansible/latest/playbooks_best_practices.html
+[ccl]: https://creativecommons.org/licenses/by/3.0/
